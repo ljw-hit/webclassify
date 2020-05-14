@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="514eb573-75b1-4724-9f46-049d9c63f75f" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="WebClassify.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebClassify.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-760">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="parseXML.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parseXML.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resultStatistic.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resultStatistic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1-2-1logo.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/result/11-05-2020-10-51-44_sina_xw/subPage/1-2-1logo.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="ModelList.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ModelList.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1215">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logo.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/result/11-05-2020-10-02-06_netease_yy/logo.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="logo.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/result/11-05-2020-09-59-57_netease_yy/logo.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="1-1-1logo.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/result/11-05-2020-09-57-55_qqmusic_yy/subPage/1-1-1logo.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="logo.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/result/11-05-2020-09-57-11_qqmusic_yy/logo.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="1-1-1-1-1logo.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/result/11-05-2020-09-56-10_qqmusic_yy/subPage/1-1-1-1-1logo.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>testLoader</find>
+      <find>loss</find>
+      <find>learningRate</find>
+      <find>i</find>
+      <find>print_loss</find>
+      <find>total</find>
+      <find>viz</find>
+      <find>模型训练完成</find>
+      <find>epoch</find>
+      <find>data_tf</find>
+      <find>batchSize</find>
+      <find>'taobao'</find>
+      <find>0xe5</find>
+      <find>FontSize</find>
+      <find>LinkTextLen</find>
+      <find>ContainTable</find>
+      <find>|</find>
+      <find>^</find>
+      <find>cut</find>
+      <find>taobao1</find>
+      <find>taobao</find>
+      <find>1-1-2-1logo</find>
+      <find>1-1-1</find>
+      <find>https://detail.tmall.com/item.htm?id=536685757769</find>
+      <find>https://detail.tmall.com/item.htm?id=576439974222</find>
+      <find>https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.7.2c783aad3pCDY6&amp;id=44274812043&amp;skuId=96912896101&amp;standard=1&amp;user_id=470168984&amp;cat_id=50918004&amp;is_b=1&amp;rn=4468edda7339228c4b38b0e15903a938</find>
+      <find>result_1</find>
+      <find>音乐</find>
+      <find>print</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>^&amp;</replace>
+      <replace>yy</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CutOut.py" />
+        <option value="$PROJECT_DIR$/alexNet.py" />
+        <option value="$PROJECT_DIR$/parseXML.py" />
+        <option value="$PROJECT_DIR$/xmls/VIPSResult9.xml" />
+        <option value="$PROJECT_DIR$/webpageSim.py" />
+        <option value="$PROJECT_DIR$/littelweblist" />
+        <option value="$PROJECT_DIR$/testWebList" />
+        <option value="$PROJECT_DIR$/webModelList" />
+        <option value="$PROJECT_DIR$/previous" />
+        <option value="$PROJECT_DIR$/ModelList.py" />
+        <option value="$PROJECT_DIR$/resNet.py" />
+        <option value="$PROJECT_DIR$/config.py" />
+        <option value="$PROJECT_DIR$/loadModel.py" />
+        <option value="$PROJECT_DIR$/WebClassify.py" />
+        <option value="$PROJECT_DIR$/resultStatistic.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LogoClassify" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LogoClassify" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="c&#9;FILE&#9;file://F:/LogoClassify/WebClassify.py&#10;conf&#9;null&#9;null&#10;con&#9;null&#9;null&#10;load&#9;FILE&#9;file://F:/LogoClassify/loadModel.py&#10;clas&#9;null&#9;null&#10;class&#9;FILE&#9;file://F:/LogoClassify/WebClassify.py&#10;loadM&#9;RUN_CONFIGURATION&#9;loadModel&#10;sim&#9;FILE&#9;file://F:/LogoClassify/webpageSim.py&#10;we&#9;FILE&#9;file://F:/LogoClassify/WebClassify.py&#10;main&#9;null&#9;null&#10;w&#9;FILE&#9;file://F:/LogoClassify/WebClassify.py&#10;web&#9;RUN_CONFIGURATION&#9;WebClassify&#10;lo&#9;FILE&#9;file://F:/LogoClassify/loadModel.py" />
+    <property name="last_opened_file_path" value="D:/conda3/Scripts/conda.exe" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\LogoClassify\testImage\test" />
+      <recent name="F:\LogoClassify\xmls" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\LogoClassify\testImage" />
+      <recent name="F:\LogoClassify\vips" />
+      <recent name="F:\LogoClassify\xmls" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.resultStatistic">
+    <configuration name="ModelList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LogoClassify" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ModelList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="WebClassify" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LogoClassify" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebClassify.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="loadModel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LogoClassify" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loadModel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="resNet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LogoClassify" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/resNet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="resultStatistic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LogoClassify" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/resultStatistic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.loadModel" />
+      <item itemvalue="Python.WebClassify" />
+      <item itemvalue="Python.resNet" />
+      <item itemvalue="Python.ModelList" />
+      <item itemvalue="Python.resultStatistic" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.resultStatistic" />
+        <item itemvalue="Python.WebClassify" />
+        <item itemvalue="Python.loadModel" />
+        <item itemvalue="Python.resNet" />
+        <item itemvalue="Python.ModelList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="514eb573-75b1-4724-9f46-049d9c63f75f" name="Default" comment="" />
+      <created>1583909742672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583909742672</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0010683761" />
+      <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.49947312" weight="0.21320346" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.20864068" side_tool="true" weight="0.38203463" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49789253" weight="0.32792208" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49789253" weight="0.41857922" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7913593" weight="0.44699454" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.9172813" visible="true" weight="0.33551913" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49683878" weight="0.4025974" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16859852" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.49947312" weight="0.21320346" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7913593" visible="true" weight="0.38203463" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49789253" weight="0.32792208" />
+      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49789253" weight="0.41450217" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49683878" weight="0.4025974" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.9172813" weight="0.3365801" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.20864068" side_tool="true" visible="true" weight="0.38203463" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/webpageSim.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/resNet.py</url>
+          <line>139</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/loadModel.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="30" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/result/10-05-2020-23-05-58_tm_wg/subPage/1-1-1-2logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/10-05-2020-23-12-58_netease_xw/page.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/10-05-2020-23-12-58_netease_xw/subPage/1-1-10-1-1logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/10-05-2020-23-16-02_tencent_xw/page.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/10-05-2020-23-18-16_alibaba_zp/page.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/10-05-2020-23-18-16_alibaba_zp/subPage/1-1-1logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testWebList">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/previous">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="239" column="63" selection-start-line="239" selection-start-column="63" selection-end-line="239" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webModelList">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpageSim.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-499">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/10-05-2020-22-55-58_jd_wg/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/10-05-2020-22-55-50_jd_wg/subPage/1-1-2logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/10-05-2020-22-56-16_jd_wg/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/10-05-2020-23-11-20_netease_xw/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/10-05-2020-23-12-24_netease_xw/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/10-05-2020-23-13-27_tencent_xw/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/10-05-2020-23-14-04_tencent_xw/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/10-05-2020-22-50-50_taobao_wg/subPage/1-2logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/10-05-2020-22-50-50_taobao_wg/subPage/1-1-2-1logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/10-05-2020-22-51-09_taobao_wg/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/11-05-2020-11-01-31_sina_xw/subPage/1-2-1logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/10-05-2020-23-08-17_netease_xw/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/10-05-2020-23-15-07_tencent_xw/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/10-05-2020-23-15-38_tencent_xw/subPage/1-1-1logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/10-05-2020-23-15-48_tencent_xw/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/10-05-2020-22-56-56_jd_wg/subPage/1-2-1logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://D:/conda3/envs/LogoClassify/Lib/site-packages/torchvision/transforms/transforms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2901">
+          <caret line="220" column="29" selection-start-line="220" selection-start-column="29" selection-end-line="220" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/10-05-2020-23-08-17_netease_xw/page.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resNet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="65" column="22" lean-forward="true" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loadModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="64" column="4" lean-forward="true" selection-start-line="64" selection-start-column="6" selection-end-line="65" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/11-05-2020-10-53-26_sina_xw/subPage/1-2-1logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/11-05-2020-09-56-48_qqmusic_yy/subPage/1-1-1-2logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/11-05-2020-10-02-06_netease_yy/pageCompele.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/11-05-2020-10-02-06_netease_yy/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/11-05-2020-09-59-57_netease_yy/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/11-05-2020-09-57-55_qqmusic_yy/subPage/1-1-1logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/11-05-2020-09-57-11_qqmusic_yy/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/11-05-2020-09-56-10_qqmusic_yy/subPage/1-1-1-1-2logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/11-05-2020-09-56-10_qqmusic_yy/subPage/1-1-2-1logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/11-05-2020-09-53-04_qqmusic_yy/subPage/1-1-1-2logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/11-05-2020-09-52-30_qqmusic_yy/subPage/1-1-1-2logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/11-05-2020-09-51-17_qqmusic_yy/subPage/1-1-1-1-2logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/11-05-2020-09-51-17_qqmusic_yy/subPage/1-1-2-1logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/11-05-2020-09-51-55_qqmusic_yy/subPage/1-1-1-2logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/11-05-2020-09-56-10_qqmusic_yy/subPage/1-1-1-1-1logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/11-05-2020-10-51-44_sina_xw/subPage/1-2-1logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parseXML.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebClassify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-760">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1215">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resultStatistic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
